@@ -33,6 +33,4 @@
 [Github]: https://github.com/Grayson1999
 [instagram]: https://www.instagram.com/seun9_99 
 
-
----
 [프로젝트 읽어보기](detail.md)
