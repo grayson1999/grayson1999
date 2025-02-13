@@ -27,7 +27,10 @@
 [<img align="center" alt="SOKURI_CODE | Email" width="48px" src="https://img.icons8.com/color/48/gmail-new.png" />][Email]
 [<img align="center" alt="SOKURI_CODE | Github" width="48px" src="https://img.icons8.com/cute-clipart/64/github.png" />][Github]
 
-[Email]: mailto:bbt1250912@gmail.com [website]: https://velog.io/@grayson1999 [instagram]: https://www.instagram.com/seun9_99 [Github]: https://github.com/Grayson1999
+[Email]: mailto:bbt1250912@gmail.com 
+[website]: https://velog.io/@grayson1999 
+[instagram]: https://www.instagram.com/seun9_99 
+[Github]: https://github.com/Grayson1999
 
 ---
 [프로젝트 읽어보기](detail.md)
