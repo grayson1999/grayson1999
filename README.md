@@ -26,6 +26,7 @@
 [<img align="center" alt="SOKURI_CODE | Github" width="48px" src="https://img.icons8.com/cute-clipart/64/github.png" />][Github] 
 [<img align="center" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
+---
 [Email]: mailto:bbt1250912@gmail.com 
 [website]: https://velog.io/@grayson1999 
 [Github]: https://github.com/Grayson1999
