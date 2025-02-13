@@ -5,6 +5,8 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grayson1999&show_icons=true&theme=default)](https://github.com/Grayson1999)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grayson1999&layout=compact&theme=default)](https://github.com/Grayson1999)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sso9594)](https://solved.ac/bbt1250912/)
+
 ## 🛠 Stacks
 
 ### Front-End
