@@ -1,6 +1,6 @@
 <!-- Award / Paper / 활동 배지 -->
 [![Award](https://img.shields.io/badge/Award-최우수상-orange)](https://www.viva100.com/main/view.php?key=20240726010008085)
-[![Paper](https://img.shields.io/badge/Paper-논문-blue)](https://www.notion.so/24ef1b1598de4ecb9f6035fd9cc24ddb?pvs=21)
+[![Paper](https://img.shields.io/badge/Paper-영상처리_기반_생체_정보_측정_방법_구현_및_분석-blue)](https://www.notion.so/24ef1b1598de4ecb9f6035fd9cc24ddb?pvs=21)
 [![활동](https://img.shields.io/badge/활동-SSAFY%2013기-green)](https://www.ssafy.com)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grayson1999&show_icons=true&theme=merko)](https://github.com/Grayson1999)
