@@ -5,13 +5,6 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grayson1999&show_icons=true&theme=default)](https://github.com/Grayson1999)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grayson1999&layout=compact&theme=default)](https://github.com/Grayson1999)
-
-### 소개
-
-- **끈기 있게 도전하는 개발자**입니다.
-- 새로운 기술과 도구에 흥미를 느끼면 즉시 배우고 실전에 적용합니다.
-- 한 줄의 코드에도 최고의 가치를 담으려고 최선을 다하며, 시작한 일은 반드시 끝내는 집념을 가지고 있습니다.
-
 ## 🛠 Stacks
 
 ### Front-End
@@ -36,4 +29,4 @@
 - **Blog:** [COMGONG_STONE](https://velog.io/@grayson1999)
 
 ---
-
+[프로젝트 읽어보기](./retail.md)
