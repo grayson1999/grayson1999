@@ -16,8 +16,8 @@
 
 | 논문명                                                   | 영문명                                               | 발행기관         | 발행연도 | 저자              |
 |---------------------------------------------------------|------------------------------------------------------|------------------|----------|-------------------|
-| 딥러닝 전이학습을 이용한 경량 트렌드 분석 시스템 설계 및 구현 | Design and implementation of trend analysis system thro | 한국정보통신학회  | -        | 방승철            |
-| 영상처리 기반 생체 정보 측정 방법 구현 및 분석           | Implementation and analysis of biometric information me | 한국정보통신학회  | -        | 방승철, 박태영    |
+| 딥러닝 전이학습을 이용한 경량 트렌드 분석 시스템 설계 및 구현 | Design and implementation of trend analysis system thro | 한국정보통신학회  | -        | 방승철, 신종호, 안수빈, 박태영, 노기섭            |
+| 영상처리 기반 생체 정보 측정 방법 구현 및 분석           | Implementation and analysis of biometric information me | 한국정보통신학회  | -        | 방승철,박태영, 장쥔쥔, 노기섭    |
 
 ---
 
