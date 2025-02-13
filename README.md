@@ -29,4 +29,4 @@
 - **Blog:** [COMGONG_STONE](https://velog.io/@grayson1999)
 
 ---
-[프로젝트 읽어보기](./retail.md)
+[프로젝트 읽어보기](detail.md)
