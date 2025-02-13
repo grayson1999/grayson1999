@@ -6,7 +6,6 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grayson1999&show_icons=true&theme=nord&hide=stars&count_private=true&show_icons=true)](https://github.com/Grayson1999) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grayson1999&layout=compact&theme=nord&hide=stars,contribs&count_private=true&show_icons=true)](https://github.com/Grayson1999)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbt1250)](https://solved.ac/bbt1250/)
 
----
 
 ### Front-End
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -21,7 +20,6 @@
 ### Collaboration & Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)  [![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)](https://www.jetbrains.com/idea/)  [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://slack.com/) [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
 
----
 [<img align="center" alt="SOKURI_CODE | Email" width="48px" src="https://img.icons8.com/color/48/gmail-new.png" />][Email] 
 [<img align="center" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-blog-graphic-design-justicon-lineal-color-justicon.png" />][website]
 [<img align="center" alt="SOKURI_CODE | Github" width="48px" src="https://img.icons8.com/cute-clipart/64/github.png" />][Github] 
@@ -32,5 +30,6 @@
 [website]: https://velog.io/@grayson1999 
 [Github]: https://github.com/Grayson1999
 [instagram]: https://www.instagram.com/seun9_99 
+
 
 [프로젝트 읽어보기](detail.md)
