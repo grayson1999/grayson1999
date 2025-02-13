@@ -30,8 +30,11 @@
 [<img align="center" alt="SOKURI_CODE | Github" width="48px" src="https://img.icons8.com/ios-filled/50/github.png" />][Github]
 
 [Email]: mailto:bbt1250912@gmail.com
+
 [website]: https://velog.io/@grayson1999
+
 [instagram]: https://www.instagram.com/seun9_99
+
 [Github]: https://github.com/Grayson1999
 
 ---
