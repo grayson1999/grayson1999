@@ -3,7 +3,8 @@
 [![Paper](https://img.shields.io/badge/Paper-논문-blue)](https://www.notion.so/24ef1b1598de4ecb9f6035fd9cc24ddb?pvs=21)
 [![활동](https://img.shields.io/badge/활동-SSAFY%2013기-green)](https://www.ssafy.com)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grayson1999&show_icons=true&theme=default)](https://github.com/Grayson1999)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grayson1999&show_icons=true&theme=merko)](https://github.com/Grayson1999)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grayson1999&layout=compact&theme=merko)](https://github.com/Grayson1999)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbt1250)](https://solved.ac/bbt1250/)
 
