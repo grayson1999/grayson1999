@@ -6,7 +6,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grayson1999&show_icons=true&theme=nord&hide=stars&count_private=true&show_icons=true)](https://github.com/Grayson1999) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grayson1999&layout=compact&theme=nord&hide=stars,contribs&count_private=true&show_icons=true)](https://github.com/Grayson1999)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbt1250)](https://solved.ac/bbt1250/)
 
-## 🛠 Stacks
+---
 
 ### Front-End
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
