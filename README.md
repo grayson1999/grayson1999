@@ -26,15 +26,13 @@
 ### Contact & Channels
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
 [<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
-[<img align="left" alt="SOKURI_CODE | Email" width="48px" src="(https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000" />][Email]
+[<img align="left" alt="SOKURI_CODE | Email" width="48px" src="https://img.icons8.com/color/48/gmail-new.png" />][Email]
+[<img align="left" alt="SOKURI_CODE | Github" width="48px" src="https://img.icons8.com/color/48/gmail-new.png" />][Github]
 
-[Email]: bbt1250912@gmail.com
-[website]: https://velog.io/@imysh578
-[instagram]: https://www.instagram.com/seun9_99/
-
-- **Email:** [bbt1250912@gmail.com](mailto:bbt1250912@gmail.com)
-- **GitHub:** [Grayson1999](https://github.com/Grayson1999)
-- **Blog:** [COMGONG_STONE](https://velog.io/@grayson1999)
+[Email]: mailto:bbt1250912@gmail.com
+[website]: https://velog.io/@grayson1999
+[instagram]: https://www.instagram.com/seun9_99
+[Github]: https://github.com/Grayson1999
 
 ---
 [프로젝트 읽어보기](detail.md)
