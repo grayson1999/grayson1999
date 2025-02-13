@@ -24,10 +24,10 @@
 ---
 
 ### Contact & Channels
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
-[<img align="left" alt="SOKURI_CODE | Email" width="48px" src="https://img.icons8.com/color/48/gmail-new.png" />][Email]
-[<img align="left" alt="SOKURI_CODE | Github" width="48px" src="https://img.icons8.com/color/48/gmail-new.png" />][Github]
+[<img align="center" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-blog-graphic-design-justicon-lineal-color-justicon.png" />][website]
+[<img align="center" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+[<img align="center" alt="SOKURI_CODE | Email" width="48px" src="https://img.icons8.com/color/48/gmail-new.png" />][Email]
+[<img align="center" alt="SOKURI_CODE | Github" width="48px" src="https://img.icons8.com/ios-filled/50/github.png" />][Github]
 
 [Email]: mailto:bbt1250912@gmail.com
 [website]: https://velog.io/@grayson1999
