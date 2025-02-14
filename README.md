@@ -28,21 +28,25 @@
 ### Certifications
 <p align="left">
   <img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-007ACC?style=for-the-badge&logo=code" alt="정보처리기사" />
-  &nbsp;
+  <br>
   <img src="https://img.shields.io/badge/SQL%20Developer%20(SQLD)-009688?style=for-the-badge" alt="SQL Developer (SQLD)" />
 </p>
 
-
-[<img align="center" alt="SOKURI_CODE | Email" width="48px" src="https://img.icons8.com/color/48/gmail-new.png" />][Email] 
-[<img align="center" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-blog-graphic-design-justicon-lineal-color-justicon.png" />][website]
-[<img align="center" alt="SOKURI_CODE | Github" width="48px" src="https://img.icons8.com/cute-clipart/64/github.png" />][Github] 
-[<img align="center" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 <p align="center">
-[Email]: mailto:bbt1250912@gmail.com 
-[website]: https://velog.io/@grayson1999 
-[Github]: https://github.com/Grayson1999
-[instagram]: https://www.instagram.com/seun9_99 
+  <a href="mailto:bbt1250912@gmail.com">
+    <img align="center" alt="SOKURI_CODE | Email" width="48px" src="https://img.icons8.com/color/48/gmail-new.png" />
+  </a>
+  <a href="https://velog.io/@grayson1999">
+    <img align="center" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-blog-graphic-design-justicon-lineal-color-justicon.png" />
+  </a>
+  <a href="https://github.com/Grayson1999">
+    <img align="center" alt="SOKURI_CODE | Github" width="48px" src="https://img.icons8.com/cute-clipart/64/github.png" />
+  </a>
+  <a href="https://www.instagram.com/seun9_99">
+    <img align="center" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
+  </a>
 </p>
+
 
 
 [프로젝트 읽어보기](detail.md)
