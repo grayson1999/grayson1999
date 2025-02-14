@@ -2,6 +2,11 @@
 [![Award](https://img.shields.io/badge/Award-최우수상-orange)](https://www.viva100.com/main/view.php?key=20240726010008085)
 [![Paper](https://img.shields.io/badge/Paper-영상처리_기반_생체_정보_측정_방법_구현_및_분석-blue)](https://www.notion.so/24ef1b1598de4ecb9f6035fd9cc24ddb?pvs=21)
 [![활동](https://img.shields.io/badge/활동-SSAFY%2013기-green)](https://www.ssafy.com)
+[![활동](https://img.shields.io/badge/자격증-정보처리기사!-- Award / Paper / 활동 배지 -->
+[![Award](https://img.shields.io/badge/Award-최우수상-orange)](https://www.viva100.com/main/view.php?key=20240726010008085)
+[![Paper](https://img.shields.io/badge/Paper-영상처리_기반_생체_정보_측정_방법_구현_및_분석-blue)](https://www.notion.so/24ef1b1598de4ecb9f6035fd9cc24ddb?pvs=21)
+[![활동](https://img.shields.io/badge/활동-SSAFY%2013기-green)](https://www.ssafy.com)
+[![활동](https://img.shields.io/badge/자격증-정보처리기사-purple)](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grayson1999&show_icons=true&theme=nord&hide=stars&count_private=true&show_icons=true)](https://github.com/Grayson1999) 
 
