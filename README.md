@@ -23,15 +23,20 @@
 ### Collaboration & Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)  [![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)](https://www.jetbrains.com/idea/)  [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://slack.com/) [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
 
+
+
+### Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-007ACC?style=for-the-badge&logo=code" alt="정보처리기사" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL%20Developer%20(SQLD)-009688?style=for-the-badge&logo=postgresql" alt="SQL Developer (SQLD)" />
+</p>
+
+
 [<img align="center" alt="SOKURI_CODE | Email" width="48px" src="https://img.icons8.com/color/48/gmail-new.png" />][Email] 
 [<img align="center" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-blog-graphic-design-justicon-lineal-color-justicon.png" />][website]
 [<img align="center" alt="SOKURI_CODE | Github" width="48px" src="https://img.icons8.com/cute-clipart/64/github.png" />][Github] 
 [<img align="center" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
-
-### Certifications
-- 정보처리기사
-- SQL Developer (SQLD)
-
 
 [Email]: mailto:bbt1250912@gmail.com 
 [website]: https://velog.io/@grayson1999 
