@@ -50,7 +50,9 @@
   
 </p>
 <p align="center">
-  [프로젝트 읽어보기](detail.md)
+  <a href="detail.md">
+    프로젝트 읽어보기
+  </a>
 </p>
 
 
