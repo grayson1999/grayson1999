@@ -47,6 +47,9 @@
   <a href="https://www.instagram.com/seun9_99">
     <img align="center" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
   </a>
+  
+</p>
+<p align="center">
   [프로젝트 읽어보기](detail.md)
 </p>
 
