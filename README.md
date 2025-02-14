@@ -28,10 +28,9 @@
 [<img align="center" alt="SOKURI_CODE | Github" width="48px" src="https://img.icons8.com/cute-clipart/64/github.png" />][Github] 
 [<img align="center" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
-## Certifications
-
-- **정보처리기사r**
-- **SQL Developer (SQLD)**
+### Certifications
+- 정보처리기사
+- SQL Developer (SQLD)
 
 
 [Email]: mailto:bbt1250912@gmail.com 
