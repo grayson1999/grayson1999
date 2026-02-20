@@ -4,9 +4,6 @@
 [![자격증](https://img.shields.io/badge/자격증-정보처리기사-purple)](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320)
 [![활동](https://img.shields.io/badge/활동-SSAFY%2013기-green)](https://www.ssafy.com)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grayson1999&layout=compact&theme=nord&hide=stars,contribs&count_private=true&show_icons=true)](https://github.com/Grayson1999)  
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbt1250)](https://solved.ac/bbt1250/)
 
 ### Front-End
