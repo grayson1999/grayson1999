@@ -34,8 +34,8 @@
   <a href="mailto:bbt1250912@gmail.com">
     <img align="center" alt="SOKURI_CODE | Email" width="48px" src="https://img.icons8.com/color/48/gmail-new.png" />
   </a>
-  <a href="https://velog.io/@grayson1999">
-    <img align="center" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-blog-graphic-design-justicon-lineal-color-justicon.png" />
+  <a href="https://comgongstone.site">
+    <img align="center" alt="컴공돌멩이 블로그" width="48px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-blog-graphic-design-justicon-lineal-color-justicon.png" />
   </a>
   <a href="https://github.com/Grayson1999">
     <img align="center" alt="SOKURI_CODE | Github" width="48px" src="https://img.icons8.com/cute-clipart/64/github.png" />
