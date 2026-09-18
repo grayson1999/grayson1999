@@ -37,18 +37,19 @@
 
 ### 🤖 AI / ML & Agent
 <p>
-  <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_AgentCore-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastMCP-8A2BE2?style=flat-square&logo=dependabot&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cohere_(Rerank_·_Embed)-39594C?style=flat-square" />
-  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/BM25F_Search-FF6F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kiwi_(Korean_NLP)-009688?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-</p>
+      <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_AgentCore-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Strands_Agents-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastMCP-8A2BE2?style=flat-square&logo=dependabot&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cohere_(Rerank_·_Embed)-39594C?style=flat-square" />
+      <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/BM25F_Search-FF6F00?style=flat-square" />
+      <img src="https://img.shields.io/badge/Kiwi_(Korean_NLP)-009688?style=flat-square" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+    </p>
 
 ### ⚙️ Back-End
 <p>
